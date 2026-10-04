@@ -1,0 +1,5 @@
+C:/Users/GROGNAK/MyFirstARProject!/.utmp/RelWithDebInfo/6q2f1p1h/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/GROGNAK/MyFirstARProject!/.utmp/RelWithDebInfo/6q2f1p1h/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/GROGNAK/MyFirstARProject!/.utmp/RelWithDebInfo/6q2f1p1h/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/GROGNAK/MyFirstARProject!/.utmp/RelWithDebInfo/6q2f1p1h/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/GROGNAK/MyFirstARProject!/.utmp/RelWithDebInfo/6q2f1p1h/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
